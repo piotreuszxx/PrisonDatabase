@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS Przepustki, Kary_I_Ograniczenia, Wyroki, Zajecia_Odbyte, Zajecia, Odwiedziny, Odwiedzajacy, Pobyty, Cele, Wiezniowie, Pracownicy, Osoby, Bloki
